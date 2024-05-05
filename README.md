@@ -6,6 +6,6 @@ AIED 2024 <br> <br>
 
 For a copy of the dataset please refer to: https://physionet.org/content/wearable-exam-stress/1.0.0/data/#files-panel
 
-#### Disclaimer: This is not a final repository, it will continuously change to reflect our work evolutions.
+#### Disclaimer: This repository reflects a work in progress and could change anytime to reflect our work evolutions.
 
 
